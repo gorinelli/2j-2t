@@ -1,9 +1,8 @@
-:root{
-    --cor-de-fundo: #ededed
-}
-body {
-    background-color: var(--cor-de-fundo);
-}
-h1{
-    background-color: aqua;
-}
+@import url(“styles/header.css”);
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    }
+    .cabeçalho {
+        background-color: var(--branco);
+        }
