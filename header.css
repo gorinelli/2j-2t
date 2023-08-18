@@ -26,14 +26,14 @@
         align-items: center;
         position: relative;
         }
-        .container {
-            display: flex;
-            align-items: center;
-            }
-            .lista-menu__titulo{
-                color: var(--laranja);
-                font-weight: 700;
-            }
+    .container {
+      display: flex;
+      align-items: center;
+    }
+     .lista-menu__titulo{
+      color: var(--laranja);
+      font-weight: 700;
+    }
             
     .lista-menu__item {
     padding: 1em;
